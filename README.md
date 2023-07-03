@@ -36,6 +36,7 @@ Pizza House system developed using C# ASP.NET Core and React js (Client server a
 
 ![addMeals](https://github.com/seren1996/my-final-project/assets/97455724/23672e93-62f3-47fb-b3d9-c646762094ba)
 
+![cart](https://github.com/seren1996/my-final-project/assets/97455724/83176450-d3ba-4d0f-b827-4110b8e38c8f)
 
 
 
