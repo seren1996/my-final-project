@@ -21,5 +21,7 @@ Pizza House system developed using C# ASP.NET Core and React js (Client server a
 - react-toastify
 - react-icons
 
+### Screenshots
+![homePage](https://github.com/seren1996/my-final-project/assets/97455724/ce94623d-dabd-4998-8fe8-9697b87cdd0f)
 
 
