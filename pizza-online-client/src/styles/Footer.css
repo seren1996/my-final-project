@@ -1,0 +1,8 @@
+.Footer {
+    padding-top: 20px;
+    display: block;
+    margin-top: 20px;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+}

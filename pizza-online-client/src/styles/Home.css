@@ -1,0 +1,37 @@
+html {
+    width: 100%;
+}
+
+
+.af-height-90 {
+    max-height: 150vh;
+    overflow: hidden;
+}
+
+.af-max-width {
+    max-width: 2000px;
+}
+
+.af-bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.links a {
+    color: white;
+    margin-left: 2rem;
+}
+
+.links a::after {
+    content: "|";
+    position: relative;
+    left: 1rem;
+    color: white;
+}
+
+.links a:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+
